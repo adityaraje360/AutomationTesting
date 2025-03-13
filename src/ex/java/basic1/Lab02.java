@@ -1,9 +1,12 @@
-package ex.java.basic;
+package ex.java.basic1;
 
 public class Lab02 {
     public static void main(String[] args) {
         System.out.println("camment");
 
-//        camment for doc
+//       this is a camment ignored by the compaler
+
+
+
     }
 }

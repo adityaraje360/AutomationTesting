@@ -1,4 +1,4 @@
-package ex.java.basic;
+package ex.java.basic1;
 
 public class Lab01 {
 
