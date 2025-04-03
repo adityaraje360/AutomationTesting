@@ -14,8 +14,8 @@ public class Lab041_Logical_Operators {
         boolean x = false;
         System.out.println(!x);
 
-        boolean x = false;
-        System.out.println(!!x);
+//        boolean x = false;
+//        System.out.println(!!x);
 
       //  boolean c= true || false;
       //  System.out.println(c);
